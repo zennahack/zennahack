@@ -14,7 +14,7 @@ Do you require any of the following services ? *Hack Emails and Social Media Acc
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenna-hacker" alt="zenna-hacker" /></a> </p>
 
-- 📫 How to reach me *ranbroa@gmail.com*
+- 📫 How to reach me *zennahacker@gmail.com*
 - 
 <h3 align="left">Connect with me:👆👆👆</h3>
 <p align="left">
